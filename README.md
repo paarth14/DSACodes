@@ -14,9 +14,7 @@ Official Repository by for Hacktoberfest👨‍💻
 [Hacktober Repository](https://github.com/bansalpravesh1/Hacktoberfest2021)
 #
 
-<img src="https://i.ytimg.com/vi/UvcI5G0bidQ/maxresdefault.jpg" width="80%" height="50%">
 
-                                         🤩 Last year goodies 🤩
   
 ## What is HacktoberFest🏵️?
 Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
